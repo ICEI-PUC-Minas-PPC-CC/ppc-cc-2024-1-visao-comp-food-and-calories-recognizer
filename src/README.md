@@ -1,11 +1,15 @@
 # Instruções de utilização
 
-## Instalação do Site
+## Instalação 
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Ativar ambiente virtual: 
 
-## Histórico de versões
+source bin/activate
 
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+Baixar dependências: 
+
+pip install -r requirements.py
+
+Rodar: 
+
+python3 app.py
